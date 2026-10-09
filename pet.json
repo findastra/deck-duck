@@ -1,0 +1,12 @@
+{
+  "pet": "Deck Duck",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "sprite": "sprite.json",
+  "job": "Placeholder: an Elgato Stream Deck inspired pet. The job is not decided yet.",
+  "runs_on": "Windows PC (planned)",
+  "entry": "index.html",
+  "status": "hatching",
+  "hub": { "topic": "pet-app", "home": "README.md" },
+  "built_with": "Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-09"
+}
