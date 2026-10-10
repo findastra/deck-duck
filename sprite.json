@@ -1,4 +1,17 @@
 {
-  "frames": [],
-  "note": "Placeholder. No pixel art yet."
+  "size": 256,
+  "moods": ["neutral", "blink", "happy", "curious", "worried", "sad", "unwell", "shocked", "sleeping"],
+  "frames": {
+    "neutral": "art/frames/neutral.png",
+    "blink": "art/frames/blink.png",
+    "happy": "art/frames/happy.png",
+    "curious": "art/frames/curious.png",
+    "worried": "art/frames/worried.png",
+    "sad": "art/frames/sad.png",
+    "unwell": "art/frames/unwell.png",
+    "shocked": "art/frames/shocked.png",
+    "sleeping": "art/frames/sleeping.png"
+  },
+  "sheet": "art/sheets/deck-duck.png",
+  "note": "Hand-drawn stand-in (scripts/draw-deck-duck-20261009.ps1). Replace with generated art from the shared pipeline."
 }
