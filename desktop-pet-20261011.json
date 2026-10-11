@@ -1,0 +1,22 @@
+{
+  "pet": "deck-duck",
+  "creator": "Astra",
+  "assistant": "OpenAI Codex (GPT-6)",
+  "date": "2026-10-11",
+  "status": "draft",
+  "desktop_scale": 1,
+  "sparkles": false,
+  "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
+  "art_files": [
+    "desktop-art/deck-duck/idle-20261011.png",
+    "desktop-art/deck-duck/blink-20261011.png",
+    "desktop-art/deck-duck/happy-20261011.png",
+    "desktop-art/deck-duck/curious-20261011.png",
+    "desktop-art/deck-duck/worried-20261011.png",
+    "desktop-art/deck-duck/sad-20261011.png",
+    "desktop-art/deck-duck/sick-20261011.png",
+    "desktop-art/deck-duck/alarmed-20261011.png",
+    "desktop-art/deck-duck/sleep-20261011.png"
+  ],
+  "notes": "Yellow duck with finer-detail sprite."
+}
