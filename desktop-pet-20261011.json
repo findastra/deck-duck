@@ -8,15 +8,16 @@
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/deck-duck/idle-20261011.png",
+    "desktop-art/deck-duck/alarmed-20261011.png",
     "desktop-art/deck-duck/blink-20261011.png",
-    "desktop-art/deck-duck/happy-20261011.png",
     "desktop-art/deck-duck/curious-20261011.png",
-    "desktop-art/deck-duck/worried-20261011.png",
+    "desktop-art/deck-duck/happy-20261011.png",
+    "desktop-art/deck-duck/idle-20261011.png",
     "desktop-art/deck-duck/sad-20261011.png",
     "desktop-art/deck-duck/sick-20261011.png",
-    "desktop-art/deck-duck/alarmed-20261011.png",
-    "desktop-art/deck-duck/sleep-20261011.png"
+    "desktop-art/deck-duck/sleep-20261011.png",
+    "desktop-art/deck-duck/worried-20261011.png"
   ],
-  "notes": "Yellow duck with finer-detail sprite."
+  "notes": "Yellow duck with forward-facing orange soles and 5-by-3 chest key grid cycling RGB; body colors stay fixed.",
+  "source_sheet": "desktop-art/deck-duck/sheet-20261011.png"
 }
