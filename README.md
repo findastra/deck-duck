@@ -5,6 +5,14 @@
 Placeholder. The repo exists so the pet can be built later. Deck Duck is an idea
 inspired by the Elgato Stream Deck; what it does has not been decided yet.
 
+## Pictures
+
+![Deck Duck's program page: the L3 activity bubble (disconnected), tutorials and a notes box; the app is a placeholder](docs/images/deck-duck-program-page-20261017.png)
+
+Deck Duck's program page (`index.html`) as it looks on OpenAI Codex's `codex/l3-activity-20261016` branch, which adds the L3 activity bubble, tutorials and notes and is not merged into `main` yet. The app itself is a placeholder.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run it
 
 Nothing to run yet. Open `index.html` in a browser to see the placeholder page.
