@@ -3,17 +3,22 @@
   "kind": "pet-app",
   "owner": "Astra",
   "sprite": "sprite.json",
-  "job": "Placeholder: an Elgato Stream Deck inspired pet. The job is not decided yet.",
+  "job": "Helps you manage your Elgato Stream Deck: what every button does, on every profile.",
   "runs_on": "Windows PC (planned)",
   "entry": "index.html",
   "status": "hatching",
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "built_with": "Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-09; brought up to the pet file rules with Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; stand-in art by Claude Opus 5.5 (claude-opus-5-5), 2026-10-09; OpenAI Codex (GPT-6), 2026-10-11",
   "updated": "2026-10-09",
   "desktop_pet": "desktop-pet-20261011.json",
-  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11"
+  "desktop_art_built_with": "OpenAI Codex (GPT-6), built-in imagegen and native renderer, 2026-10-11",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "my plan",
+    "needs": "a job: what should Deck Duck do?"
+  }
 }
